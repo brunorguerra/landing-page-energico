@@ -1,0 +1,34 @@
+:root {
+  --green: #66ab36;
+
+  --yellow: #f0bc00;
+  --yellow600: #f1bb00;
+  --yellow500: #f1c219;
+  --yellow400: #f3c82e;
+
+  --black500: #222222;
+  --black300: #333333;
+
+  --text600: #3a3a3a;
+  --text500: #8a8a8a;
+  --text300: #989797;
+
+  --white: #fff;
+  --secondary: #f7f7f7;
+}
+html {
+  font-size: 62.5%;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+
+body {
+  background: var(--white);
+  /* font-family: 'Roboto', sans-serif; */
+  font-family: "Montserrat", sans-serif;
+}
