@@ -45,8 +45,8 @@ The main features of the application are:
 
 ## Links
 
-- Deploy on Netlify:
-- Repository:
+- Deploy on Netlify: https://js-bootstrap-energico.netlify.app/
+- Repository: https://github.com/brunorguerra/landing-page-energico/
 
 ## Versioning
 
